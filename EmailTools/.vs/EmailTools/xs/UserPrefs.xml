@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{CD4F16FE-657F-4095-A74D-2436CDBD9AF8}|Default">
-  <MonoDevelop.Ide.ItemProperties.EmailTools FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EmailTools/Program.cs">
+﻿<Properties StartupConfiguration="{13E6E62D-B066-4199-B1A8-B0B21C61F0DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.EmailSend FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmailAddressGenerate/Program.cs">
     <Files>
-      <File FileName="EmailTools/Program.cs" Line="1" Column="1" />
+      <File FileName="EmailAddressGenerate/Program.cs" Line="2" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -11,4 +11,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EmailAddressGenerate FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

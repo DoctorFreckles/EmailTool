@@ -1,0 +1,5 @@
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailSend/bin/Debug/EmailSend.exe
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailSend/bin/Debug/EmailSend.pdb
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailSend/obj/x86/Debug/EmailSend.csproj.CoreCompileInputs.cache
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailSend/obj/x86/Debug/EmailSend.exe
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailSend/obj/x86/Debug/EmailSend.pdb

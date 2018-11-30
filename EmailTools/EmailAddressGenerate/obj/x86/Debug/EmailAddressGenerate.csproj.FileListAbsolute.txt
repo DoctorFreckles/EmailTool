@@ -1,0 +1,6 @@
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailAddressGenerate/bin/Debug/EmailAddressGenerate.exe
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailAddressGenerate/bin/Debug/EmailAddressGenerate.pdb
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailAddressGenerate/obj/x86/Debug/EmailAddressGenerate.csprojAssemblyReference.cache
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailAddressGenerate/obj/x86/Debug/EmailAddressGenerate.csproj.CoreCompileInputs.cache
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailAddressGenerate/obj/x86/Debug/EmailAddressGenerate.exe
+/home/dan/Desktop/REPOS/EmailTool/EmailTools/EmailAddressGenerate/obj/x86/Debug/EmailAddressGenerate.pdb

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EmailTools
+namespace EmailSend
 {
     class MainClass
     {
